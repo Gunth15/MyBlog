@@ -1,22 +1,22 @@
-# Obligatory website post
+# Obligatory Website Post
 
-This is just a reminder for me on why I build this website.
-There will be more useful post in the future I promise.
-This website is were I will practicing communicating the technical concepts I have learned and will learn.
+This is just a reminder for myself about why I built this website.
+There will be more useful posts in the future, I promise.
+This website is where I’ll practice communicating the technical concepts I’ve learned and will continue to learn.
 
 ## Elixir or Go
 
-The hardest part of writing my website was deciding a tech stack. Elixir was really enticing and I would have been done a lot sooner, but I ultimately went with go because of it's low resource consumption to offset any cost if I wanted to run this locally. For future web-based projects, I will probably choose Elixir because of it's convenience however.
+The hardest part of creating this website was choosing a tech stack. Elixir was really tempting, and I could have finished the project much sooner, but I ultimately chose Go for its low resource consumption, which helps offset costs if I decide to run it locally. For future web-based projects, I’ll probably go with Elixir for its convenience.
 
-## How it works
+## How It Works
 
-Version control was a must, so I leveraged GitHub.
-That way I can just write blog post in NeoVim or any other text editing tool and upload them to git.
-Also enables collaborations and backup capability so viewers like you can make edits to my post.
-I have a [public repository](https://github.com/Gunth15/MyBlog.git) where post are pulled from and added to the private website repo. This is done daily to keep content up to date.
-Can use a public Github repo with a live and blog folder.
+Version control was essential, so I used GitHub.
+This allows me to write blog posts in NeoVim or any other text editor and then upload them to Git.
+It also enables collaboration and backups, so viewers like you can suggest edits to my posts.
+I keep a [public repository](https://github.com/Gunth15/MyBlog.git) where posts are pulled from and added to the private website repo. This sync happens daily to keep content up to date.
+The setup uses a public GitHub repo containing both a live and a blog folder.
 
-## I'm not done yet
+## I'm Not Done Yet
 
-Whilst writing this website I discovered static site generation. This is a way better idea considering most of the content on this website could be rendered at compile time and nothing would change. It would also allow me to host this website for way cheaper.
-Thanks fr reading!.
+While working on this website, I discovered static site generation. This approach is far better since most of the content here could be rendered at compile time without changing afterward. It would also allow me to host the site much more cheaply.
+Thanks for reading!
